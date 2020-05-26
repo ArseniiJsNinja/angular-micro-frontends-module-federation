@@ -1,6 +1,6 @@
-# Module Federation Demo for ER
+# Angular micro frontends example based on module federation
 
-Demonstrates webpack 5 Module Federation with Angular and the Angular Router.
+Demonstrates webpack 5 Module Federation with Angular.
 
 ## Start
 
